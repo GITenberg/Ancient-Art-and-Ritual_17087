@@ -1,0 +1,30 @@
+_repo: Ancient-Art-and-Ritual_17087
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, Jane Ellen
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '7130'
+    url: http://www.gutenberg.org/2009/agents/7130
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Ellen_Harrison
+description: ''
+gutenberg_bookshelf: Anthropology
+gutenberg_issued: '2005-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17087'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ritual'
+- !lcc 'BH'
+- !lcsh 'Art, Primitive'
+- !lcsh 'Aesthetics'
+title: Ancient Art and Ritual
+url: http://www.gutenberg.org/ebooks/17087
